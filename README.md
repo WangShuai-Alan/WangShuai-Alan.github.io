@@ -1,6 +1,2 @@
-# zjc真太帅了 
-## zjc真太帅了
-### zjc真太帅了
-#### zjc真太帅了
-##### zjc真太帅了
-###### zjc真太帅了
+# hexo-theme-vanilla
+A minimalist style hexo theme
